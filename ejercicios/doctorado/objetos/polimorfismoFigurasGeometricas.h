@@ -1,0 +1,14 @@
+//
+// Created by Noe on 21/06/24.
+//
+
+#ifndef PROYECTOC_POLIMORFISMOFIGURASGEOMETRICAS_H
+#define PROYECTOC_POLIMORFISMOFIGURASGEOMETRICAS_H
+
+
+class polimorfismoFigurasGeometricas {
+
+};
+
+
+#endif //PROYECTOC_POLIMORFISMOFIGURASGEOMETRICAS_H

@@ -1,0 +1,14 @@
+//
+// Created by Noe on 30/06/24.
+//
+
+#ifndef PROYECTOC_GENSKIPLSHOSEPOWER_H
+#define PROYECTOC_GENSKIPLSHOSEPOWER_H
+
+
+class genSkipLShosePower {
+
+};
+
+
+#endif //PROYECTOC_GENSKIPLSHOSEPOWER_H
